@@ -38,7 +38,7 @@ Each algorithm folder contains:
 ### ✅ Unsupervised Learning
 12. K-Means Clustering
 13. Gaussian Mixture Model (Expectation Maximization)
-14. Principal Component Analysis (PCA)
+14. Principal Component Analysis (PCA) *(Done)*
 
 ---
 
