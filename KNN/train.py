@@ -13,6 +13,7 @@ x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=0.2,random_state=12
 
 plt.figure()
 plt.scatter(x[:,2],x[:,3],c=y,cmap=cmap,edgecolors='k',s=20)
+plt.title("K-nearest neighbour")
 plt.show()
 
 clf=Knn(k=5)

@@ -18,6 +18,7 @@ x2=x_projected[:,1]
 plt.scatter(
     x1,x2,c=y,edgecolors="none",alpha=0.8,cmap=plt.get_cmap("viridis",3)
 )
+plt.title("Principal component Analysis")
 plt.xlabel("PCA1")
 plt.ylabel("PCA2")
 plt.colorbar()
