@@ -3,6 +3,7 @@ from networkx import predecessor
 import numpy as np
 from sklearn.model_selection import train_test_split
 from sklearn import datasets
+
 import matplotlib.pyplot as plt
 from Knn import Knn
 cmap=ListedColormap(['#FF0000','#00FF00','#0000FF'])
